@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src\Umbraco.Search.Postgres.csproj" />
+  <Project Path="tests\Umbraco.Search.Postgres.Tests.csproj" />
+</Solution>
